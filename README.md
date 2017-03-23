@@ -1,4 +1,5 @@
 # Software de Estatística em Java
+http://estatistica.nunes.net.br
 
 Esse software de estatística foi desenvolvido por José Eduardo de Araujo Nunes, para facilitar a execução repetida de alguns cálculos estatísticos, tanto no âmbito acadêmico quanto profissional.
 
