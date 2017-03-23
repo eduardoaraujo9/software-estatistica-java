@@ -5,7 +5,7 @@ Esse software de estatística foi desenvolvido por José Eduardo de Araujo Nunes
 
 A forma de utilização do software remete à mesma sequência de cálculo ministrada nas aulas, oferecendo uma maneira simples de aprendizagem e utilização do software por todas as pessoas.
 
-O o software possui como pré-requisito o ambiente Java instalado no computador.
+O software possui como pré-requisito o ambiente Java instalado no computador.
 
 # Estudo de casos
 
